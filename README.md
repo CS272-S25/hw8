@@ -1,4 +1,4 @@
-# CS272-S25 HW9: Badger MadLib
+# CS272-S25 HW8: Badger MadLib
 
 In this HW, you will complete our implementation of Badger MadLib! Carrying over our work from the in-class exercise, the input fields are created on page load, but you still need to perform validation and generation of the MadLib!
 
